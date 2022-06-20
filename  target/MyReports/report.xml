@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="0.141">
+    <testcase classname="Test Hooks in Step Definition" name="Login to Facebook" time="0.019">
+        <system-out><![CDATA[Given User launches the browser and URl.....................................passed
+When User enter username and password.......................................passed
+Then User logs in successfully..............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Test Hooks in Step Definition" name="Post something" time="0.001">
+        <system-out><![CDATA[Given User launches the browser and URl.....................................passed
+When User enter username and password.......................................passed
+Then User logs in successfully..............................................passed
+Then User Clicks on Post and enter something................................passed
+Then User click on POST.....................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
